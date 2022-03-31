@@ -1,0 +1,7 @@
+- [<span class="iconfont icon-icon_fabu"></span> 首页](/README.md)
+  - [🐍 Python](README?id=🐍-python)
+  - [🎨 论文投稿](README?id=🎨-论文投稿)
+  - [🔨 工具 COOL](README?id=🔨-工具-cool)
+  - [🎅 赞赏作者](README?id=🎅-赞赏作者)
+- [<span class="iconfont icon-wodeguanzhu"></span> 关于本站](关于/)
+- [⛷ Github](https://github.com/choya-lee)
